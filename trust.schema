@@ -1,0 +1,7 @@
+             Table "public.trusts"
+  Column  |          Type          | Modifiers 
+----------+------------------------+-----------
+ server   | character varying(19)  | 
+ channel  | character varying(200) | 
+ identity | character varying(200) | 
+ mode     | character(1)           | 
